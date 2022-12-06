@@ -1,20 +1,18 @@
-# Banco-de-dados-usando-MySQL
+# Projeto de Banco de Dados de uma Empresa de sucos
 
-## Projeto de Banco de Dados de uma Empresa de sucos
+## Modelando a Empresa:
 
-### Modelando a Empresa:
-
-#### Clientes:
+### Clientes:
 * Informações pessoais dos clientes, volume da compra e informação sobre a primeira compra.
 
-#### Produtos:
+### Produtos:
 * Informações sobre os produtos da empresa, como código do produto, nome, embalagem, tamanho, sabor e preço.
 
-#### Vendedores:
+### Vendedores:
 * Informaçoes sobre os vendedores da empresa, como matricula, nome, percentual de comissão, data de emissão, ferias e bairro.
 
-#### Notas fiscais:
+### Notas fiscais:
 * Número, CPF do cliente, data de venda e imposto.
 
-### Software usado para modelagem
+## Software usado para modelagem
 * MySQL Workbench
