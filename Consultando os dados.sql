@@ -1,12 +1,5 @@
 use sucos;
 
--- Fazendo consulta com os campos nomeados:
-SELECT CPF AS CPF_CLIENTE, NOME AS NOME_CLIENTE FROM tbcliente;
-
--- Alterando o sabor limão para cítricos:
-UPDATE tbproduto SET SABOR = 'Cítricos' WHERE SABOR = 'Lima/Limão';
-select NOME_DO_PRODUTO, SABOR from tbproduto;
-
 -- Selecionando clientes que tem 22 anos:
 SELECT * FROM tbcliente WHERE IDADE = 22;
 
